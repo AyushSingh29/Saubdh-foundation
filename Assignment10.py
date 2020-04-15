@@ -1,3 +1,5 @@
+"""
+Assignment-10 AYUSH SINGH CHAUHAN CSE-1
 QUESTION-1
 """
 
